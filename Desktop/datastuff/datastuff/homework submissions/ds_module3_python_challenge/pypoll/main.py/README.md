@@ -1,0 +1,1 @@
+In this pypoll challenge, I created a python script to analyze a dataset. I set out to determine the results of an election. I used class lectures, the xpert, and code I learned in class to help me.
